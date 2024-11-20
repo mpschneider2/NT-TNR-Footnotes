@@ -8,6 +8,9 @@
             "matches": ["*://my.noodletools.com/web2.0/bibliography.html"],
             "css": ["inject.css"]
         }
-    ]
+    ],
+    "icons": {
+        "128": "icon.png"
+    }
         
   }
